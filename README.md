@@ -14,17 +14,16 @@ Hi, I'm Brandon moreno
 <hr>
 
 ```
-I-am-vishalmaurya@github
+https://github.com/brandon-stack-html
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 Soy un desarrollador Full Stack autodidacta y un desarrollador de Machine Learning
+📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial y el devops.
+
+🌱Aprender sobre visión por computadora y aprendizaje automático
+🌟 Idiomas principales: Python, JavaScript
+🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack
+💖 En una relación complicada con las Redes Neuronales
+🎵 Me encanta el metal, lofi, el jazz y la música suave.
 ```
 <hr>
 
