@@ -1,249 +1,126 @@
+<h1 align="center">
+Hi, I'm Brandon moreno
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<h1 align="center">Hi, im brandon estiven <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate devops developer and a student from colombia</h3>
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
 
 
-- 🌱 I’m currently learning<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+## 🛠️ My Favorite Tools
 
-- 👨‍💻 All of my projects are available [@brandon](https://github.com/brandon-stack-html)
+### 👨‍💻 Programming Languages
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+### 🧰 Frameworks and Libraries
 
+<p>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
----
-
-
-
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
+### 🗄️ Databases and Cloud Hosting
 
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
+  
 
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
-</p>
+## Let's Work on Your Project Together!
 
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
-</p>
+If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-</p>
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
-----
+  </td>
+  <td width="50%" valign="top">
 
-<h3 align="center">Connect with me</h3>
+## It's not perfect, isn't it?
 
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://dribbble.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
-    </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
-  </div>
-</div>
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-----
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
-----
+  </td>
+  </tr>
+</table>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-------
+
+
+
 
