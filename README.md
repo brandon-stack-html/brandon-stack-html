@@ -2,17 +2,13 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi, im bramdon estiven <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, im brandon estiven <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate devops developer and a student from colombia</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@brandon](https://github.com/brandon-stack-html)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
@@ -22,24 +18,16 @@
 ---
 
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
@@ -67,9 +55,6 @@
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
   </a>
   <a href="https://bulma.io/" target="_blank">
     <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
@@ -103,15 +88,6 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
@@ -129,10 +105,6 @@
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
@@ -257,17 +229,6 @@
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
-</p>
-
 ----
 
 <div align="center">
@@ -285,6 +246,4 @@
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
-Last Edited on: 09/09/2021
