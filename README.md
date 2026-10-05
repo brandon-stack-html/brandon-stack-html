@@ -1,114 +1,129 @@
-<h1 align="center">
-Hi, I'm Brandon moreno
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+## `$ whoami`
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con el perfil de Brandon Moreno, Full Stack Developer y AI Engineer">
+</p>
 
 ```
 https://github.com/brandon-stack-html
 -------------------------
 💻 Soy un desarrollador Full Stack autodidacta y un desarrollador de Machine Learning
-📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial y el devops.
-🌱 aws,gcp,azure amo el devops
-🌟 Idiomas principales: Python, JavaScript
+📝 Tengo un gran interés en la ciencia de datos, la inteligencia artificial y el DevOps.
+🌱 AWS, GCP, Azure: amo el DevOps
+🌟 Lenguajes principales: Python, JavaScript
 🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack
 💖 En una relación complicada con las Redes Neuronales
-🎵 Me encanta el metal, lofi, el jazz y la música suave.
+🎵 Me encanta el metal, el lofi, el jazz y la música suave.
 ```
-<hr>
 
+---
 
-## 🛠️ My Favorite Tools
+## `$ cat tech-stack.yaml`
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-  
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:brandonli777xd@gmail.com">contact me</a> through email me.
-
-You can hire me as a freelancer on <a href="www.linkedin.com/in/brandon-moreno-0abb86270">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>brandon@epylum:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ frontend_mobile:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" alt="React, Next.js, TypeScript y JavaScript">
+        <img src="https://cdn.simpleicons.org/expo/8b949e?viewbox=auto" height="48" alt="Expo"><br>
+        <sub><code>React · Next.js · TypeScript · JavaScript · React Native (Expo)</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ backend_apis:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi" alt="Node.js, NestJS, Python y FastAPI"><br>
+        <sub><code>Node.js · NestJS · Python · FastAPI</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS y Docker"><br>
+        <sub><code>AWS Lambda · Cognito · S3 · Bedrock · Docker</code></sub>
+      </td>
+      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis" alt="PostgreSQL, MongoDB, DynamoDB y Redis"><br>
+        <sub><code>PostgreSQL · MongoDB · DynamoDB · Redis</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ◉ ai_agents:</code><br><br>
+        <img src="https://cdn.simpleicons.org/claude/D97757?viewbox=auto" height="48" alt="Claude">&nbsp;
+        <img src="https://cdn.simpleicons.org/langgraph/3ddc97?viewbox=auto" height="48" alt="LangGraph">&nbsp;
+        <img src="https://cdn.simpleicons.org/crewai/FF5A50?viewbox=auto" height="48" alt="CrewAI">&nbsp;
+        <img src="https://cdn.simpleicons.org/modelcontextprotocol/8b949e?viewbox=auto" height="48" alt="Model Context Protocol"><br>
+        <sub><code>Claude Code · LangGraph · CrewAI · MCP · Amazon Bedrock</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ⌁ workflow:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Git y GitHub"><br>
+        <sub><code>Spec-Driven Development · SpecKit · Git · GitHub</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+    </tr>
+  </tfoot>
 </table>
 
+</div>
+
+---
+
+## `$ cat skills.radar`
+
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
+    <img src="assets/radar-skills-light.svg" width="400" alt="Radar de habilidades: frontend, backend, agentes de IA, cloud, bases de datos, mobile y DevOps">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="400" alt="Radar de lenguajes: TypeScript, JavaScript, Python, SQL, HTML/CSS y Bash">
+  </picture>
 </p>
 
+<p align="center"><sub><code>signals: skill_radar · language_radar · status: healthy</code></sub></p>
 
+---
 
+## `$ git log --graph --contributions`
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brandon-stack-html/brandon-stack-html/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandon-stack-html/brandon-stack-html/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/brandon-stack-html/brandon-stack-html/output/github-snake.svg" alt="Snake recorriendo mi grilla de contribuciones">
+  </picture>
+</p>
 
+---
+
+## `$ connect --socials`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brandon-moreno-0abb86270">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/brandon-stack-html">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>&nbsp;&nbsp;
+<a href="mailto:brandonli777xd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-3ddc97?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Hecho con 💚 y mucho metal desde Tunja, Colombia · @brandon-stack-html</sub>
+</div>
