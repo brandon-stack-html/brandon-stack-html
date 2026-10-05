@@ -27,9 +27,6 @@ https://github.com/brandon-stack-html
 
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
-    <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
-    </tr>
   </thead>
   <tbody>
     <tr>
