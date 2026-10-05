@@ -23,7 +23,7 @@ https://github.com/brandon-stack-html
 ```
 <hr>
 
-## `$ cat tech-stack.yaml`
+## `STACK TECH`
 
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
